@@ -22,7 +22,10 @@ Get `.nar` file in /target directory.
 >        -rw-r--r-- 1 myuser mygroup 5579215 Mar 20 20:13 nifi-unix-nar-0.0.1-SNAPSHOT.nar
 >        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 test-classes/
 Move `.nar` file `$NIFI_HOME/lib/*`
-### Author 
+
+Apache License 2.0
+
+## Contact 
 Melvin Mendoza - mcamendoza1@gmail.com
 
 
