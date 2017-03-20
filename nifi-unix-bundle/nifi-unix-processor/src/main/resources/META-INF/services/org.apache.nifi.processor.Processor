@@ -1,0 +1,3 @@
+# Custom Processor to cater Unix (SunOS 4.1) 
+com.clickha.nifi.processors.ListFTPV2
+com.clickha.nifi.processors.FetchFTPV2
