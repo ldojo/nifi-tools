@@ -13,12 +13,12 @@ Execute `mvn clean install`
 
 ## Deploy 
 Get `.nar` file in /target directory.
-    laptop:nifi myuser$ cd nifi-unix-nar
-    laptop:nifi-unix-nar myuser$ ls -l target/
-    drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 classes/
-    drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 maven-archiver/
-    drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 maven-shared-archive-resources/
-    drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 maven-status/
-    -rw-r--r-- 1 myuser mygroup 5579215 Mar 20 20:13 nifi-unix-nar-0.0.1-SNAPSHOT.nar
-    drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 test-classes/
+>        laptop:nifi myuser$ cd nifi-unix-nar
+>        laptop:nifi-unix-nar myuser$ ls -l target/
+>        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 classes/
+>        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 maven-archiver/
+>        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 maven-shared-archive-resources/
+>        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 maven-status/
+>        -rw-r--r-- 1 myuser mygroup 5579215 Mar 20 20:13 nifi-unix-nar-0.0.1-SNAPSHOT.nar
+>        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 test-classes/
 Move `.nar` file `$NIFI_HOME/lib/*`
