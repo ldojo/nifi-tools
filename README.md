@@ -23,6 +23,7 @@ Get `.nar` file in /target directory.
 >        drwxr-xr-x 1 myuser mygroup       0 Mar 20 20:13 test-classes/
 Move `.nar` file `$NIFI_HOME/lib/*`
 
+## License 
 Apache License 2.0
 
 ## Contact 
