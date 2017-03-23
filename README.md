@@ -5,6 +5,7 @@ NiFi tools contains custom nifi processors, scripts and other.
 
 ## Requirements
 * JDK 1.8 or newer
+* NiFi 1.1.2
 * Apache Maven 3.1.0 or newer
 * Git Client (used during build process by 'bower' plugin)
 
